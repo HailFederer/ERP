@@ -20,7 +20,7 @@
 <script src='/erp/resources/schedule/calendar/scheduler.js'></script>
 
 <script type="text/javascript">
-
+// Test
 	$(document).ready(function() {
 		
 		var events_array = [];
