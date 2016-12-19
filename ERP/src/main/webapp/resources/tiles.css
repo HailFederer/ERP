@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+
+#top{
+	position: absolute;
+	height: 160px;	
+}
+
+#left{
+	margin-top:150px;
+	
+	float:left;
+	height: 822px;
+	width: 79px;
+	border-right :1px solid;
+	border-right-color:#CCCCCC;
+	background-color: #f2f2f2;
+	
+}
+
+#main{
+	
+	
+	margin-top:150px;
+	
+	float:left;
+	height: 822px;
+	width: 1840px;
+
+		
+	
+}
